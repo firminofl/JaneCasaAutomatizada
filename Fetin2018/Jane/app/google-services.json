@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "280124267068",
+    "firebase_url": "https://janevirtualassistence.firebaseio.com",
+    "project_id": "janevirtualassistence",
+    "storage_bucket": "janevirtualassistence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280124267068:android:ef4a3f7d2d0ec35a",
+        "android_client_info": {
+          "package_name": "br.com.jane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280124267068-fo6g4d1qfptn597i85fcppreakdpii2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.jane",
+            "certificate_hash": "0eea610de7a49f894d3a26ad4aad0916a676389b"
+          }
+        },
+        {
+          "client_id": "280124267068-fd9m3ls21u2vauslbb87jr0bgpbk2vek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ANFOEMerRcLOfzmkP8Fnw-BvzdGN37M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280124267068-fd9m3ls21u2vauslbb87jr0bgpbk2vek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
